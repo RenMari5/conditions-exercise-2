@@ -14,4 +14,4 @@ let name3 = "Leon S. Kennedy"
 //     console.log()
 // }
 
-switch 
+switch
